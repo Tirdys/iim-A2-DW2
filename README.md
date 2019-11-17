@@ -1,2 +1,2 @@
 # iim-A2-DW2 rendu
-Rendu de Zhu Vincent A2 DW
+Rendu de Duplouy Antoine A2DW2
